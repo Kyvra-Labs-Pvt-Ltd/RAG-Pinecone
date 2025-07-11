@@ -1,0 +1,806 @@
+CONTENTS
+ 
+Contents	i
+Foreword	v
+Introduction	vii
+How to Use This Book	viii
+My Education and Background	xi
+PART ONE: UNDERSTANDING YOUR PERIOD	1
+Chapter 1: Period Revolution	3
+Your Period Is Trying to Tell You Something	4
+Why Hormonal Birth Control Is Not the Answer	7
+Be a Detective	9
+Chapter 2: Breaking Up with Hormonal Birth Control	17
+Not the Only Birth Control	18
+Pill Bleeds Are Not Periods	18
+Pill Drugs Are Not Hormones	19
+Different Types of Hormonal Contraception	24
+Risks and Side Effects of Hormonal Birth Control	28
+Coming Off the Pill	35
+Chapter 3: Better Birth Control. All the Options	38
+Fertility Awareness Method (FAM)	40
+Male Condoms	47
+Female Condoms	48
+Diaphragm Without Spermicide	48
+Cervical Cap Without Spermicide	49
+Withdrawal or Pull-Out Method	49
+Copper Intrauterine Device (IUD)	50
+Hormonal Intrauterine Device (MirenaⓇ IUD)	53
+Spermicide	54
+Female Tubal Ligation	54
+Vasectomy	55
+Vasalgel	55
+Chapter 4: What Should Your Period Be Like?	57
+Follicular Phase and Estrogen	58
+Ovulation	61
+Luteal Phase and the Rise of Progesterone	62
+The Grand Finale: Your Period	67
+i
+Menstrual Products	70
+Periods Over All Your Lifetime	71
+Chapter 5: What Can Go Wrong with Your Period? Looking for Clues	74
+Do You Ovulate?	74
+No Periods or Irregular Periods	75
+Late Periods	80
+Early Periods	81
+Heavy Periods or Heavy Menstrual Bleeding	83
+Light Periods	87
+Pain	88
+Abnormal Vaginal Discharge or Cervical Fluid	92
+Bleeding Between Periods	93
+Premenstrual Symptoms	96
+Your Period Report Card	98
+PART TWO: TREATMENT	101
+Chapter 6: General Maintenance for Periods	103
+Stress	104
+Sleep	108
+Exercise	109
+Chronic Inflammation	110
+Macronutrients for Period Health	130
+Micronutrients for Period Health	134
+The Best Diet	139
+Chapter 7: Restoring Regular Periods	145
+Why Does It Matter?	145
+How Regular Do Your Cycles Need to Be?	147
+Working Toward a Diagnosis	147
+Polycystic Ovary Syndrome (PCOS)	151
+Treatment of Acne	185
+Treatment of Female Pattern Hair Loss	187
+Anti-Androgen Treatments	188
+Hypothalamic Amenorrhea (HA)	190
+High Prolactin	194
+Chapter 8: The PMS Solution: 3 Steps to Hormonal Resilience	198
+A Controversial Diagnosis	199
+What Causes PMS?	200
+Enhance Progesterone and GABA	203
+Stabilize and Metabolize Estrogen	208
+Reduce Inflammation	211
+PMS with Depression and Anxiety	213
+PMS with Breast Pain	214
+ii
+PMS with Acne	216
+PMS with Migraines or Headaches	216
+PMS with Fatigue	219
+PMS with Sugar Cravings	221
+Chapter 9: Easy Flow: No More Pain and Suffering	224
+Heavy Periods	225
+Light Periods	231
+Uterine Fibroids	233
+Adenomyosis	237
+Endometriosis	239
+Period Pain	251
+Bleeding Between Periods	254
+Ovarian Cysts	255
+Chapter 10: What Happens in Your Forties	260
+Estrogen Goes on a Roller Coaster Ride	262
+Progesterone Becomes Seriously Deficient	263
+Perimenopausal Mood, Sleep, and Hot Flashes	264
+Is It Perimenopause or Thyroid or Both?	270
+The Heavy Menstrual Bleeding of Perimenopause	271
+Life After Periods	278
+Bioidentical Hormone Therapy	282
+Chapter 11: Advanced Troubleshooting	287
+Putting It All Together	287
+Environmental Toxins	290
+Digestive Health	299
+Yeast Infections and Bacterial Vaginosis	307
+Thyroid Disease	307
+Hair Loss	313
+How to Come Off Hormonal Birth Control	318
+How to Talk to Your Doctor	320
+How Long Will It Take to See Results?	326
+A Final Message: Trust Your Body	328
+Appendix A: Resources	329
+Appendix B: Glossary	339
+References	350
+Index	382
+Acknowledgments	393
+ 
+iii
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv
+ 
+foREWORD
+By Jerilynn C. Prior MD, Endocrinology Professor
+AVING  WORKED  as a clinician and scientist of women’s reproductive and bone health for over forty years, I am convinced that women’s self-knowledge is empowering and
+healing. Let me explain why I say that.
+Years ago I conducted a randomized, blinded one-year therapy study that restored half of the participants who had abnormal menstrual cycles or ovulation to perfect cycles. At baseline, these 61 normal-weight, otherwise healthy women in their twenties and thirties had absent or far-apart periods or regular cycles without egg release or with repeated short times from egg release to the next period related, not to disease, but to combinations of very personal stressors. Their recovery couldn’t be accounted for by the cyclic progesterone or calcium supplementation or placebo we gave during this trial, or to weight gain, or less exercise. Therefore, these women’s perfectly normal menstrual cycles and ovulation, by the end of the study, were likely due to learning more about themselves in the supportive environment of a participatory, scientific study.
+Self-knowledge means awareness. For example, I know I am more critical of myself than some and more ambitious than others. Self-knowledge also means “body literacy,” as my educator-reporter friend Laura Wershler terms it. This body literacy allows me to appreciate, based on solid personal evidence, that my luteal phase will be short if I hike the Chilkoot trail for seven days, climbing from sea level up into the alpine, carrying a pack with a companion who is not simpatico. It also means knowing that this same combination of emotional, exertional and nutritional stressors when I was a decade younger would have made my period go away. This book will help you attain such empowering body literacy.
+My first thought upon seeing the title and before reading the v
+ 
+book, was that it would treat women’s reproductive system as a rigid, inflexible machine that requires fixing by a greasy-handed, muscle-bound mechanic. I was concerned, because an engine- related concept doesn’t fit with my understanding of how integrative, adaptable and self-healing our reproductive system is
+—if given a chance. My second thought was that this book would be full of orders to do this or avoid that inexplicable thing.
+I was wrong. On reading this latest edition, I find that naturopathic physician, Lara Briden, shows great respect for the complexity and integrative powers of women’s reproductive system. Furthermore, she takes an amazingly physiological and scientific approach to most aspects of women’s menstrual cycles and their variations. She usually does a good job of explaining mysterious things and provides many and up-to-date medical journal references. I especially like that she identifies where the data are few, and where medical doctors and naturopaths are likely to disagree. Even better, she prepares women to speak with their physicians from a position of self-awareness, careful observation, and record-keeping, while feeling strong as self- advocates.
+For women everywhere, this book is an appealing, personable and empowering introduction to understanding our body ourselves.
+Jerilynn C. Prior, professor of endocrinology at the University of British Columbia, founder and scientific director of the Centre for Menstrual Cycle and Ovulation Research (www.cemcor.ca), director of the British Columbia Centre of the Canadian Multicentre Osteoporosis Study (www.camos.org) and author of the award-winning educational fiction book Estrogen’s Storm Season—stories of perimenopause (second edition, 2017).
+
+
+
+
+
+vi
+ 
+
+
+
+
+INTRODUcTION
+ELCOME TO the second edition of Period Repair Manual. I’m excited to bring you new and updated information about how
+to have better hormones and better periods.
+With this book, I’m even more passionate about period health than I was three years ago with the first edition. Why? Because the book is now part of a collective revolution in women’s health. Mine is just one voice in a growing chorus of women’s voices who are speaking up about periods and are reclaiming hormones and periods as an essential, integrated part of human health.
+Women’s health is not a niche topic. It is general health for half the humans on earth.
+For too long, women’s hormones have been thrown in the “too- hard basket” and managed with birth control. Now, I invite you to think differently about your hormones. I invite you to see them as a force for good that benefits every aspect of your mood and metabolism and physiology.
+This book is my message to you that you are lucky to be in a female body and have female hormones. It’s my assurance that your body is not complicated or mysterious or unruly. Quite the opposite. Your woman’s body is strong and vital and wise, and with the right support, it knows exactly how to be healthy and
+
+vii
+ 
+have periods.
+
+How to Use This Book
+The first half of the book is all about understanding your period. What should your period be like? What can go wrong? Why do we have periods at all? In this section, I also make the case against hormonal birth control and survey alternative methods of birth control.
+The second half is the treatment section. It begins with a chapter called General Maintenance, which lays the groundwork for the detailed treatment chapters that make up the rest of the book.
+Please start by reading the book cover to cover because there are important topics nestled within each chapter. For example, Chapter 3 explains the Physical Signs of Ovulation, which will come in handy when we look at ovulation and progesterone later in the book. Chapter 5 describes estrogen metabolism or detoxification, and Chapter 6 is where you’ll first learn about insulin resistance. Understanding those key concepts will help you to understand almost any period problem.
+Special boxes
+Throughout the book, you’ll see definitions, tips, patient stories, and special topics.
+
+
+
+
+viii
+ 
+ 
+
+
+The final chapter is the Advanced Troubleshooting chapter, where I dive into some of the trickier health issues such as environmental toxins, digestive health, and thyroid disease. The final chapter is also where you'll find the crucial section How to Talk to Your Doctor. It provides a list of questions and statements to help you communicate with your doctor and bring you both to a better understanding of your particular health situation.
+As you read, you will encounter references to different sections of the book. That will allow you to go back and piece together the different parts of your unique period story. For example, you may be struggling to get your period back after stopping birth control. I explore that problem in special sections in Chapters 2, 7, and 11. The Table of Contents and Index will help you navigate to the right sections.
+Are the Recommendations Evidence-Based?
+Whenever possible, I have provided a reference to a scientific study. That amounts to more than 350 studies to back up many of the recommendations.
+When I have not provided a reference, it’s because there was not yet published research available on that topic at the time of writing. This is the case for some of the herbal medicines and
+
+ix
+ 
+also for a couple of the special topics, such as histamine intolerance. Of course, I hope that scientists will one day test those treatments, but in the meantime, I want you to have the benefit of them. If that means being ahead of the curve of scientific inquiry, then so be it. One of my earliest naturopathic teachers put it this way: “If you wait for the research to catch up, then you could be waiting for a very long time.”
+All the recommendations are based on results I’ve seen with my thousands of patients over the last twenty years. And almost all of the recommendations are simple and safe to try. However, I do recommend you speak with your doctor or pharmacist about possible interactions with any existing medical condition or medication, or if you are pregnant or breastfeeding. Always cross-check the labels or packaging of any supplements for precautions and dosing instructions.
+What’s New in the Second Edition?
+The best thing about releasing the first edition of Period Repair Manual was all the thoughtful feedback I received. So many questions and suggestions of how to make it better. Using that feedback, I expanded and revised the entire book, including the sections on fertility awareness method, natural progesterone, PCOS, and endometriosis.
+I also gathered some of the latest research in nutrition and women’s health.
+What’s new?
+•	insights from Jerilynn C. Prior MD, Endocrinology Professor
+•	more than 300 additional references
+•	expanded sections on PCOS and endometriosis
+•	a chapter on perimenopause and the menopause transition
+•	patient stories
+•	special topics such as Histamine Intolerance and How to Choose a Probiotic
+•	suggested brands of supplements.
+
+x
+ 
+And just a word about the suggested brands. They’re listed in the Resources section, and they’re to provide you with a starting place. They are by no means the only acceptable brands, as there are plenty of other good products out there. Please buy the supplement that is available to you and is not too expensive. I have not been paid to mention any product or brand name.
+
+My Education and Background
+I started my professional life as a biologist at the University of Calgary. There, I studied zoology, botany, and ecology, and worked summers collecting data on the plants and animals of the Canadian wilderness. I even published a scientific paper on the foraging behavior of male and female bats.
+I was planning to pursue an academic career in biology, when one day, I saw an ad in the university newspaper, and my life took a different direction.
+The ad was for the Canadian College of Naturopathic Medicine, and I was intrigued. I cut it out of the paper and taped it to my dresser mirror. “What is naturopathic medicine?” I wondered. Until that point, medicine was not something I had seriously considered because I had not been interested in working within conventional medicine.
+When I began to look into naturopathic medicine, I discovered that its core philosophy is that the body can often heal itself. That resonated with everything I’d learned about the natural world in my biology studies. I understood the natural world to be a pragmatic and regenerative system. Of course, the human body had to follow the same principles, because the human body is part of the natural world.
+I dropped my plans for an academic career and applied to the naturopathic college. Once accepted, I drove my little old Volkswagen three thousand kilometers east across Canada to Toronto and embarked on four more years of study.
+
+
+xi
+ 
+There are currently seven accredited colleges of naturopathic medicine in North America: two in Canada and five in the United States. The first two years of naturopathic college are similar to conventional medical programs. The final two years provide hundreds of hours of training in nutritional and herbal medicine, as well as clinical training in an outpatient clinic. Graduates of accredited naturopathic colleges must complete a postdoctoral licensing exam (NPLEX).
+I qualified as a naturopathic doctor in 1997 (under my maiden name, Lara Grinevitch), and promptly set up general practice in the small rural town where I’d grown up—Pincher Creek, Alberta, Canada. The 1990s were an interesting time to be a natural doctor. Even basic things like probiotics were strange to the other doctors. “Good bacteria?” said one doctor. “How ridiculous!”
+It was also a particularly interesting—and somewhat scary—time for women's health. Women were faced with high-dose birth control pills, conventional hormone “replacement” therapy, and routine hysterectomies. I simply had to find better solutions for those women.
+As I worked with my patients, I discovered that natural treatments yielded even better results than I had been taught to expect. I discovered that for most women, natural medicine is a viable alternative to synthetic hormones and surgery.
+One condition I treated in those early years was polycystic ovary syndrome (PCOS). Back then, the conventional treatment was a surgical procedure called ovarian drilling. My approach was completely different. I had been taught that PCOS was related to an underlying problem with blood sugar and insulin, so I prescribed diet and supplements to lower insulin. A “diet solution” for PCOS was greeted with skepticism by the local doctors but I persevered and saw great results. Of course, we now know that blood sugar and insulin are major factors in PCOS, as we’ll see in Chapter 7.
+More than two decades later, I’ve had the opportunity to treat xii
+ 
+many, many kinds of period problems. I run a busy naturopathic practice in Sydney, Australia, where I treat women for PCOS, endometriosis, insulin resistance, thyroid disease, and many other issues.
+And to my thousands of patients over the years, I just want to say thank you!
+I dedicate this book to you.
+Lara Briden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xiii
+ 
+
+ 
+
+PART ONE
+
+Understanding Your Period
+
+Nothing in life is to be feared, it is only to be understood.
+
+Now is the time to understand more, so that we may fear less.
+
+
+~ Marie Curie ~
+ 
+2 — PERIOD REPAIR MANUAL
+ 
+UNDERSTANDING YOUR PERIOD — 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 1
+
+PERIOD REVOLUTION
+OMETHING BIG is happening in period health. If you’ve picked up this book, then you're part of the movement.
+Periods are coming out into the open. They are no longer something to be endured, concealed, or regulated with hormonal birth control. As we’ll see in the coming chapters, the pill has outlived its usefulness. There are better options for birth control. There are far better solutions for period problems.
+More and more women are saying No to the pill, and Yes, to their own natural monthly cycles.
+Period apps are part of the change. Most of my patients use them. I use one myself. When I asked my teenage stepdaughter if she uses a period app, she said “Of course,” as if I’d asked a silly question.
+Period apps are smartphone applications that allow you to track data about your monthly cycle. You can track your period start date. You can track signs and symptoms such as spotting, breast tenderness, and mood. You can even receive an alert when your period is likely to start! Of course, you could do the same thing
+ 
+4 — PERIOD REPAIR MANUAL
+
+
+with old-fashioned pen and paper, but a period app is easier and friendlier somehow. Your phone is right there in your bag. It’s often in your hand.
+By inviting our periods into our day-to-day lives, these apps make periods seem less threatening. They make periods seem normal, which of course they are, and always have been.
+What’s happening with your period? Does it come every month? Does it come at all? Is it heavy or painful or difficult in some way? Maybe you’ve just come off the pill, or are thinking about coming off the pill?
+No matter your age or your situation, it's time to get to know your period. There is no better time to do so.
+
+Your Period Is Trying to Tell You Something
+Your period is not just your period. It is an expression of your underlying health. When you are healthy, your menstrual cycle will arrive smoothly, regularly, and without symptoms. When you are unhealthy in some way, your cycle will tell the story.
+I invite you to think of your period as your monthly report card. Every month, it can offer a helpful account of what is happening with your health in general. That information is incredibly valuable. How better to know what you need to do—and what you need to change?
+The American College of Obstetricians and Gynecologists (ACOG) agrees. In December 2015, together with the American Academy of Pediatrics, they quietly issued a groundbreaking statement called “Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign.”[1]
+In it, they state:
+“Identification of abnormal menstrual patterns in adolescence may improve early identification of potential health concerns for adulthood. It is important for clinicians to have an
+ 
+PERIOD REVOLUTION — 5
+
+
+understanding of the menstrual patterns of adolescent girls, the ability to differentiate between normal and abnormal menstruation, and the skill to know how to evaluate the adolescent girl patient. By including an evaluation of the menstrual cycle as an additional vital sign, clinicians reinforce its importance in assessing overall health status for patients and caretakers.”
+
+I nearly cried when I read that statement. Finally!
+The ACOG says doctors should always ask patients about menstruation and should advise girls to chart their cycles. By doing so, doctors will demonstrate to patients that menstruation is an important reflection of their overall health.
+The ACOG is correct, of course. Menstruation is a reflection of overall health, or what they are calling a vital sign.
+Throughout my twenty years of working with patients, I have relied on information about menstruation to help me assess health and determine the correct treatment plan. That’s why I always ask my patients about their periods—even if they have come to me for something else.
+Consider my patient Meagan.
+
+ 
+6 — PERIOD REPAIR MANUAL
+
+
+“Does it come every month? Do you have any pain or spotting between periods?”
+Meagan said her period was fine because she took the pill.
+“That’s not a period,” I said. “I mean, what was your period like back when you weren't on the pill?”
+Meagan’s period had not started until she was 16 and then it was light and irregular. Her doctor had done some blood tests and said that everything was normal. She’d recommended Meagan take the pill.
+“There had to be a reason for your irregular periods,” I explained. “And it could be the same underlying issue that’s contributing to your psoriasis.”
+I ordered some extra blood tests, and all was normal except for a borderline iron deficiency, which had also come up in some of Meagan’s previous tests.
+A picture was starting to emerge. Meagan had a group of symptoms which suggested to me a possible sensitivity to wheat: 1) psoriasis, 2) iron deficiency, and 3) irregular periods. I explained to Meagan that the psoriasis could be, in part, an inflammatory reaction to wheat or gluten.[2] And that the same inflammatory reaction from gluten could also be contributing to both the iron deficiency and the irregular periods.[3]
+Fortunately, Meagan tested negative for the most severe clinical form of gluten sensitivity: celiac disease. But I perceived that she likely had a milder form of gluten sensitivity—one that was affecting her skin and her periods. I asked her to avoid gluten for six months.
+A month into treatment, Meagan stopped the pill to see if her new diet would give her regular periods. I warned her that it could take some time.
+For the first two months, not much happened. Meagan’s psoriasis stayed about the same, and she did not get a period.
+ 
+PERIOD REVOLUTION — 7
+
+
+The right treatment for Meagan’s general health was also the right treatment for her periods. It is always like this: fix your health, and you will fix your period.
+
+Why Hormonal Birth Control Is Not the Answer
+Your doctor may not care very much about your monthly report card. She’s not thinking about which subtle underlying issue is the cause of your period problems because the solution is always the same: take the pill.
+The pill is a combined oral contraceptive, which is one of the types of hormonal birth control that suppress ovulation.
+
+
+Why does your doctor love the pill so much? Because it is a handy catch-all solution. Missing periods? Take the pill. Period pain? Take the pill. Polycystic ovary syndrome or endometriosis? Take the pill.
+Then, when you want to become pregnant, you can take a fertility drug.
+ 
+8 — PERIOD REPAIR MANUAL
+
+
+Conventional medical prescribing for period problems tends to look like this:
+
+
+image 1 - conventional prescribing for period problems
+
+The pill can be a predictable band-aid solution, I’ll grant you. It suppresses skin oils, so it clears up pimples. It overrides hormones, so it erases pesky report card symptoms—but only as long as you keep taking it. Stopping the pill can be tricky, as we’ll see in the next chapter.
+Finally, the pill forces you to have a bleed, which is reassuring for both you and your doctor. But there’s a problem: a pill bleed is not a real period.
+A real period is a finale in a series of hormonal events which includes ovulation and the making of progesterone, as I’ll discuss below. A real period happens approximately every 28 days because that’s how long it takes your ovaries to complete the process. A real period is about the healthy functioning of your ovaries.
+A pill bleed does not proceed from ovulation. Instead, it is a withdrawal bleed from the drugs that stimulate your uterine lining but shut down your ovaries. A pill bleed is about the dosing of a drug.
+Wait a minute. Did I just say that hormonal birth control works by shutting down your ovaries and switching off your hormones? Yes. On the pill, you have no sex hormones of your own. Instead, you have steroid drugs given to you as a kind of “hormone replacement”—not unlike the hormone replacement that is given to women in menopause.
+ 
+PERIOD REVOLUTION — 9
+
+
+Hormone replacement might be okay if the steroid drugs were as good as your own hormones, but they’re not. The steroid drugs in hormonal birth control are not the same as your own estrogen and progesterone, and as we'll see in the next chapter, that can pose a big problem for health.
+
+
+This book is your opportunity to depart from “pill medicine” and to do things differently.
+Natural period repair is different from pill medicine because it’s gentle and without side effects. It’s also a fundamentally different approach in that it works by supporting your ovaries, not suppressing them. Natural period repair honors your period as the vital sign the ACOG says it is.
+The best thing about natural period repair is that when it works, it works forever. Your period will stay healthy for as long as you remain healthy. In that way, it’s a far more powerful and permanent solution than the pill could ever be.
+
+Be a Detective
+So where do you start? What is the right treatment for your health and your periods? Is it as simple as avoiding gluten, as Meagan found? Or is it something completely different?
+To find your best treatment, you must first learn to interpret your period clues. This book is your step-by-step guide to doing that. First, we will look at how your period should be. Then, we will look at some of the things that can go wrong, and why. As we go, please start asking yourself questions, and start thinking about some possible answers. For example:
+Does your period come at least every 35 days? If not, then you might have PCOS, which we’ll discuss in Chapter 7. Or you might have a problem with your thyroid. PCOS and thyroid
+ 
+10 — PERIOD REPAIR MANUAL
+
+
+disease are just two of the many reasons for irregular periods.
+Is your period painful? If so, then you might endometriosis, which we’ll discuss in Chapter 9. Or you might need to think about inflammatory foods or take a zinc supplement.
+Do you experience premenstrual breast pain? Breast pain is so common that you probably do not consider it a sign of anything at all. Mild breast pain can be a normal sign of ovulation, but more severe breast pain can mean you don’t have enough iodine in your diet.
+Those are fairly obvious questions. But here’s the most important question of all:
+Do you ovulate?
+When it comes to period health, it’s all about ovulation.
+Ovulation is the release of an egg from your ovary. You probably understand that ovulation is essential for making a baby, but why does it matter so much for period health? Ovulation matters because it’s how you progress through all the menstrual cycle phases to your menstrual flow or period.
+Ovulation is also how you make progesterone, which is an amazing hormone, to say the least.
+
+
+Progesterone is a steroid reproductive hormone produced by a temporary gland in your ovary after ovulation. It’s beneficial for mood, metabolism, and bones. It’s also highly beneficial for your period. In fact, you could say, that when it comes to period health, it’s all about progesterone.
+We’ll learn more about progesterone in the coming chapters, but suffice to say at this point, you almost certainly want more
+ 
+PERIOD REVOLUTION — 11
+
+
+progesterone than you have right now.
+
+
+
+Interpreting your period clues is something you can do on your own, to some extent. After all, you know your own body better than anyone. At some stage, however, you may need to ask your doctor or healthcare provider for help. I want your conversation with your doctor to be as productive as possible—and not just result in another prescription for the pill. Toward that goal, I have included a section called How to Talk to Your Doctor. You might find that your doctor is a lot more helpful than you’d expected— if you just know what to ask.
+One final point: don’t put off natural period repair. The longer you leave it, the more entrenched your period problems will become.
+Hormonal patterns can be thought of as “hormonal rivers” in your body. In this analogy, your hormones flow down the gullies and trenches carved by the hormones that came before.
+ 
+12 — PERIOD REPAIR MANUAL
+
+
+The best examples of “hormonal rivers” in action are the beginning of periods when you are a teenager and then the end of periods as you approach menopause. Let’s look at these two times of hormonal change and adaptation.
+The Beginning of Periods
+When you first started having periods, estrogen was new to your body and hormone receptors.
+
+
+At that young age, you react strongly to estrogen because your receptors are still quite sensitive. In the hormonal river analogy, estrogen has not yet had a chance to carve out its “river.” At the same young age, you are probably not yet ovulating or making the progesterone you need to counterbalance estrogen. The result may be the heavy periods of the early teen years.
+With time, you react less strongly to estrogen because your hormone receptors become less sensitive. You ideally start to ovulate and make progesterone. The result is a natural lightening of your periods.
+It takes time for hormones to carve out their “rivers,” and that’s why it takes time to establish a healthy menstrual cycle. According to Dr Jerilynn C. Prior, a Canadian endocrinologist with expertise in reproductive hormones, it can take up to twelve years to develop a mature menstrual cycle with healthy regular ovulation and an optimal level of progesterone.[4]
+Twelve years to mature your menstrual cycle.
+So, what happens if you take hormonal birth control as a teen and hit the pause button on that maturation process? You will probably need some time to get things going again, and you may
+ 
+PERIOD REVOLUTION — 13
+
+
+not see regular periods right away when you first stop birth control. That’s what happened to my patient Christine.
+
+Christine: One year to get periods
+Christine had never thought much about her periods until she lost them at 29 when she came off the pill. Or rather, she perceived that she lost them. In fact, she had not had a real period since before she started the pill at 14.
+Back then, her periods were irregular. This is often the case at 14, but that’s not how her doctor saw it. He prescribed the pill to “regulate” Christine’s periods and said it would also give her nice skin, which it did.
+Christine had been on the pill for fifteen years when she decided to take a break. She wasn’t ready for a baby but thought she might try for one in a few years, and she wanted to see what was happening with her fertility. She stopped the pill, but much to her dismay, she saw no sign of a period.
+A few months went by, and then her doctor detected “polycystic ovaries” on a pelvic ultrasound exam. He said she might have a condition called PCOS, which was very frightening for Christine. She tried to stay calm and look for answers online and there she found some of the blog posts I’d written about the condition.
+“I was so relieved by the way you speak about PCOS,” Christine told me when she came in for her first appointment. “You make it sound like it is sometimes reversible.”
+“PCOS can be reversible,” I said. “And also, we don’t even yet know if you have the condition.”
+I ordered some blood tests for Christine and, fortunately, they were all normal. I said that she probably did not have PCOS but that we would not know for sure until she had been off the pill for longer. As we’ll see in Chapter 7, PCOS is a complex hormonal condition that cannot be diagnosed by ultrasound alone. It’s fairly common to have polycystic ovaries after the
+ 
+14 — PERIOD REPAIR MANUAL
+
+
+
+
+Getting Ready for the End of Periods
+Your hormonal rivers determine how well you mature into a regular ovulatory menstrual pattern. They also determine how smoothly you transition to the end of your periods, or menopause.
+ 
+PERIOD REVOLUTION — 15
+
+
+If you’re in your twenties or thirties, you may not be thinking much about the end of periods, but it’s coming sooner than you think. The normal age for menopause is anywhere from 45 to 55. The normal age for perimenopause is up to twelve years before that, so as young as 35!
+
+
+
+During perimenopause, your cycles could still be regular, but you could start to experience symptoms such as hot flashes, heavy periods, and insomnia. For more information, I invite you to read Chapter 10, which is all about the end of periods and the challenging time of perimenopause. You probably want to read Chapter 10 even if you think it doesn’t yet apply to you. It’s a helpful preview of what lies ahead, and will give you ways to cope when the time comes.
+Going Forward
+How are your hormonal rivers? Are your estrogen and progesterone flowing nicely? Or are your hormones not quite where you’d like them to be?
+Your hormones now will determine your hormones of the future.
+If you take hormonal birth control, now is the time to stop. You simply cannot go any further with your period health until you
+ 
+16 — PERIOD REPAIR MANUAL
+
+
+do. The pill distorts your hormonal rivers and masks your monthly report card.
+And, as we’ll see in the next chapter, the pill has more potential side effects than you may realize.
+ 
+PERIOD REVOLUTION — 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 2
+
+BREAkING UP WITH lORMONAL BIRTH CONTROL
+E’RE IN A STRANGE TIME for women’s health. It’s a time when we think it’s fine and normal to routinely give a drug to switch
+off the hormones of millions of women and girls.
+What are we doing? Why should we have to shut down a woman’s entire hormonal system just to accomplish the simple job of preventing pregnancy? Fertility is an expression of health, not a disease to be treated with a drug.
+Imagine if hormonal birth control were proposed today for the first time. Quite likely, many women, doctors, and scientists would be appalled. But that’s seeing it from a modern perspective which values women and women’s hormones. The pill is far from modern. It’s a relic from the 1950s when people had different ideas about things. For example, they thought the synthetic pesticide DDT was fine and normal. They thought smoking was fine and normal. And of course, they thought contraception should be illegal.
+The invention of the pill helped to put an end to some of that antiquated thinking and gained women the legal right to birth
+ 
+18 — PERIOD REPAIR MANUAL
+
+
+control. That’s something we can all celebrate.
+But now it’s 2018. We’ve progressed in so many other ways. Smartphones. Self-driving cars. Why are we still using such an outdated method of contraception?
+If you think about it, fifty years of hormonal birth control shows a startling lack of imagination.
+
+Not the Only Birth Control
+It’s not unusual for me to have a conversation with a patient that goes something like this:
+Me: What do you do for birth control?
+
+Patient: I don’t use birth control. I use condoms.
+
+In other words, for my patient, “birth control” is synonymous with the pill or other hormonal birth control. She thinks that if she’s not using hormonal birth control, then she is not using anything at all. And bizarrely, her doctor, who should know better, may have the same idea.
+I’m here to tell you that you have other birth control options. In the next chapter, we’ll take a fresh look at condoms, diaphragms, intrauterine devices (IUDs), and fertility awareness methods. Contrary to what you may have been told, those methods are a reliable and perfectly reasonable choice. That’s true even if you’re a young woman who has not yet had children.
+
+Pill Bleeds Are Not Periods
+What if you take birth control for a reason other than contraception? For example, what if you take it to control symptoms or to “regulate” your period? If you do, you’re not alone. Of all the women who take the pill, one in three takes it to regulate her period.
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 19
+
+
+Hormonal birth control can certainly suppress symptoms, but let’s be clear: it cannot give you a period.
+As we saw in the first chapter, pill bleeds are not periods. They do not equate, in any sense, to the cycling of your own hormones.
+Pill bleeds are pharmaceutically induced bleeds that are arbitrarily coordinated into a 28-day pattern to reassure you that your body is doing something natural. Having the occasional pill bleed is necessary to prevent breakthrough bleeding, but it doesn’t have to be monthly. A pill bleed could just as easily be every 56 days or every 83 days, or any number of days you’d like.
+There is no medical reason to bleed monthly on hormonal birth control. So, why do it? It all started in the 1950s when the pill was invented. It was invented as contraception, but contraception was not yet legal, so instead, the pill was prescribed to ostensibly “treat female disorders” and to “regulate menstruation.”[6] “Regulate” was a quaint euphemism which just meant to get your period and to be “not pregnant” (wink-wink).
+In other words, the whole “normalize periods” thing started as a cover story. That would be fine, except that six decades later the legacy of that story persists. Many doctors continue to prescribe birth control to “normalize” periods and “regulate” hormones, as though the pill’s steroids are somehow equal to, or better than, your own hormones. The fact is, nothing could be further from the truth.
+Pill steroids are not better than your hormones. They’re not even real hormones.
+
+Pill Drugs Are Not Hormones
+Your ovarian hormones are estradiol and progesterone. They have many benefits—not just for reproduction, but also for mood, bones, thyroid, muscles, and metabolism. They’re human hormones that are essential for human physiology.
+ 
+20 — PERIOD REPAIR MANUAL
+
+
+In contrast, the steroid drugs in hormonal birth control are ethinylestradiol, drospirenone, levonorgestrel, and others. Technically, those drugs are hormones if a hormone is broadly defined as a chemical messenger. But they are not human hormones, and they are not part of normal human physiology. They are better described as pseudo-hormones.
+
+
+One of the most common steroid drugs is levonorgestrel, which is used in many oral contraceptives and implants, as well as the MirenaⓇ IUD, and the morning-after pill.
+Levonorgestrel is a progestin, which means it’s kind of similar to progesterone. For example, levonorgestrel is similar to progesterone in the way it suppresses ovulation and thins the uterine lining. That’s why it’s used in birth control.
+At the same time, levonorgestrel is not entirely similar to progesterone. When you look at levonorgestrel and progesterone side by side, you can see that they are, in fact, different molecules.
+
+
+image 2 - levonorgestrel is not progesterone
+
+Different molecules have different effects in the body. Progesterone, for example, improves brain health and cognition.
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 21
+
+
+[7] As a progestin, levonorgestrel has been linked with depression and anxiety.[8]
+Another example is hair. Progesterone is great for hair health, and promotes hair growth. Its counterpart levonorgestrel causes hair loss because it’s similar to the male hormone testosterone.
+Levonorgestrel is actually more similar to testosterone than it is to progesterone.
+
+
+image 3 - levonorgestrel is almost testosterone
+
+
+Later in the chapter, we’ll look at the many side effects of progestins. For now, let me say that their biggest side effect is that they rob you of your own beneficial progesterone. They do so by suppressing ovulation, which is, of course, their purpose, but unfortunately, without ovulation, you cannot make progesterone.
+ 
+22 — PERIOD REPAIR MANUAL
+
+
+The Pill Is Nothing Like Pregnancy
+One of the arguments put forward in defense of hormonal birth control is that it’s like pregnancy and that, therefore, any side effects are better than pregnancy—as if the pill or pregnancy were the only two options. Furthermore, the argument goes, the pill is “natural” because it mimics the continuously pregnant state of our ancestors.
+That argument doesn’t hold up.
+For one thing, the pseudo-hormone drugs of hormonal birth control are not the hormones of pregnancy. Drugs such as ethinylestradiol, levonorgestrel, and drospirenone do not have the same effects as the pregnancy hormones hCG, estradiol, and progesterone.
+And as for the continuously pregnant state of our ancestors, it’s a little more complicated than that. Yes, your great-grandmother may have had relatively few periods compared to you. If she had many children, then she had only 40 periods in her life compared to your 400. Your hundreds of periods may put you at greater risk of fibroids and ovarian cysts, but then, so does hormonal birth control. And so does the modern onslaught of hormone- disrupting environmental toxins.
+Any way you look at it, your health is going to be different from your great-grandmother’s. And if 400 periods are the trade-off for living in the modern world, then I invite you to embrace your periods. The best part is, with the right support, you can be happy and healthy with all of them.
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 23
+
+
+Is There Ever a Time to Take Hormonal Birth Control?
+I would never say that no woman should ever take hormonal birth control.
+My main goal is to speak the truth about what hormonal birth control is. Namely, that it shuts down hormones and functions as a type of synthetic hormone replacement.
+Knowing this, there are two situations when you could consider taking hormonal birth control.
+1.	You understand the physiological reality of what the pill is. You are aware of your other options, but you still decide as a grown woman that hormonal birth control is the best method of contraception for you. Of course, that’s fine. But in that case, you do not need this book. This is a book about periods and remember: pill bleeds are not periods.
+2.	You suffer debilitating symptoms from a serious condition such as endometriosis or adenomyosis. We’ll look at natural treatments for those conditions in Chapter 9, and I hope they will work for you. If not, then you may need to resort to some type of hormonal birth control— preferably the MirenaⓇ IUD discussed below.
+ 
+24 — PERIOD REPAIR MANUAL
+
+
+Different Types of Hormonal Contraception
+
+Combined Pill (Estrogen plus Progestin)
+The classic pill is a combination of two synthetic hormones: ethinylestradiol plus a progestin such as levonorgestrel. All combined pills are the same stuff, but they’re branded differently according to the amount and timing of estrogen, and the type of progestin. Drug companies give them cutesy girl brand names such as BrendaⓇ and YazⓇ, so they’ll seem more benign and personable. (You might take YazⓇ but are you as happy to take a drug called drospirenone?) The brand names are different in different countries.
+Readers always ask me about the pill ZoelyⓇ and QlairaⓇ which use the natural estrogen estradiol instead of the usual synthetic ethinylestradiol. Yes, estradiol is better, and those pills do have slightly fewer side effects and risks compared to other pills, but they still shut down ovulation and hormones just like other types of hormonal birth control. And they still use a progestin rather than natural progesterone. I don’t see them as a great improvement.
+NuvaRingⓇ (Estrogen plus Progestin)
+NuvaRingⓇ is similar to the combined pill in that it delivers both ethinylestradiol and a progestin called etonogestrel. Just like the pill and most methods of hormonal birth control, it works by suppressing ovulation.
+When NuvaRingⓇ was launched in 2001, it was touted as easier (because it’s a monthly insert rather than a daily pill), and safer (because it’s lower dose). The safety claim was extraordinary, given that a worrying blood clot risk had already emerged in the first clinical trials. The blood clot risk from NuvaRingⓇ is higher than the pill because the ethinylestradiol goes directly into your blood without first passing through your liver. The high clot risk of NuvaRingⓇ was concealed by the manufacturer during the FDA approval process, and that concealment has subsequently
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 25
+
+
+been the target of several lawsuits.
+Contraceptive Patch (Estrogen plus Progestin)
+The patches XulaneⓇ and EvraⓇ are also similar to the combined pill in that they deliver both ethinylestradiol and a progestin called norelgestromin. Just like the pill and most methods of hormonal birth control, they work by suppressing ovulation. Just like NuvaringⓇ, they carry a higher risk of blood clot compared to the pill.[10]
+Mini-Pill or Progestin-Only Pill
+The word “mini” means that the pill contains one drug (a progestin), not two (ethinylestradiol plus a progestin). Also, the dose of the progestin is lower than it is in a combination pill because the mini-pill does not work primarily by suppressing ovulation. Instead, the progestin-only pill works by thinning the uterine lining and impairing cervical fluid. It does also inadvertently suppress ovulation in the majority of cycles.[11]
+The mini-pill still has many of the same side effects as the combined pill because progestins cause side effects. In fact, the first pill ever tested in 1956 was progestin-only.[12] It had so many side effects that estrogen was added to make the drug more tolerable.
+Implants (Progestin-Only)
+Arm implants, or rods, are another type of progestin-only birth control. They contain either the progestin levonorgestrel (JadelleⓇ or Norplant-2Ⓡ) or etonogestrel (NexplanonⓇ or ImplanonⓇ). Like the mini-pill, implants work primarily by thinning the uterine lining and impairing cervical fluid, and like the mini-pill, they also inadvertently suppress ovulation in the majority of cycles. Implants can also cause weight gain and erratic bleeding.
+ 
+26 — PERIOD REPAIR MANUAL
+
+
+Injection (Progestin-Only)
+The injection Depo-ProveraⓇ delivers a high dose of the progestin medroxyprogesterone acetate, which completely suppresses both estrogen and progesterone. The profound hormone deficiency induced by Depo-ProveraⓇ can cause a number of troubling side effects, including seemingly unstoppable weight gain[13] and temporary bone loss.[14] It has also been associated with an increased breast cancer risk.[15]
+MirenaⓇ and SkylaⓇ Intrauterine Devices (IUDs) (Progestin-Only)
+MirenaⓇ and SkylaⓇ are intrauterine devices (IUDs) that release a small amount of the progestin levonorgestrel into the uterus. Like other progestin-only methods, they work primarily by thinning the uterine lining and impairing cervical fluid. Like other progestin-only methods, they also inadvertently suppress ovulation—but not as often. The hormonal IUD suppresses ovulation in 85 percent of cycles in the first year, but then only 15 percent of cycles after that.[16]
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 27
+
+Because MirenaⓇ does not completely suppress ovulation, I view it as the least harmful of all hormonal birth control. That said, it is still the progestin drug levonorgestrel. The hormonal IUD has been linked to depression[17] and may reduce your ability to cope with stress.[18]
+On the plus side, MirenaⓇ has the benefit of reducing flow by 90 percent and so can treat serious period problems such as flooding, adenomyosis, and endometriosis (Chapter 9).
+There is also a non-hormonal type of IUD, which we’ll look at in the next chapter.
+
+
+ 
+28 — PERIOD REPAIR MANUAL
+
+
+Risks and Side Effects of Hormonal Birth Control
+
+Cancer
+Hormonal birth control slightly increases your risk of breast cancer. This is true of all modern methods including low-dose pills, implants, and the hormonal IUD.
+Scientists had long known that the old high-dose estrogen pills increased the risk of breast cancer, but had hoped that the modern lower dose pills and progestin-only devices were safer. Unfortunately, a large 2017 study discovered that modern methods carry the same cancer risk as the old high-dose estrogen pills.[19]
+On the plus side, the pill reduces your risk of colorectal, ovarian, and uterine (endometrial) cancers.
+The protection from uterine cancer is important if you have PCOS and are therefore at greater risk of uterine cancer. Fortunately, there are other, better options for preventing uterine cancer. They include: 1) reversing your PCOS with natural treatment, and 2) taking natural progesterone to protect your uterine lining. See Chapter 7 for more information.
+Blood Clots
+All hormonal birth control carries a risk of blood clot, and that risk was known almost from the beginning. Barbara Seaman wrote about it in 1969 in her book The Doctor’s Case Against the Pill.[20] Five decades later, not much has changed. Again and again, the blood clot risk is downplayed. Again and again, the solution has been to find a new and better pill.
+We’re told that each new generation of the pill is better and safer, but not unlike the “low-tar” advertising used by the cigarette industry, the terms “low-dose” and “new generation” are mostly just advertising.
+“New generation” refers merely to the decade in which that
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 29
+
+
+particular progestin was invented. And oddly, some modern progestins such as drospirenone have the highest risk of a fatal blood clot of any progestin so far.
+The absolute risk of a blood clot from any hormonal contraceptive is small. Even NuvaRingⓇ, which carries the highest risk, has an absolute risk of only 9.7 clot-events per 10,000 women per year[21] compared to 2.1 clot-events in non- users of hormonal birth control. The clot risk goes way up if you smoke, which you’re not supposed to do if you take hormonal birth control.
+Chances are, the pill will not give you cancer or a blood clot. However, it will give more likely you one or more of these “minor” side-effects: depression, loss of sex drive, hair loss, and weight gain.
+So-called minor side effects are so common that they are the rule rather than the exception. The way they’ve been downplayed and ignored for the last three generations is perhaps the biggest tragedy of hormonal birth control.
+Depression
+Anyone who treats women knows that hormonal birth control affects mood. The fact that it remained “unproven” for fifty years is basically because no one was bothering to research it.
+That all changed in October 2016 when the prestigious medical journal JAMA Psychiatry released a groundbreaking study called “Association of Hormonal Contraception With Depression.”[22] In the study, researchers from the University of Copenhagen tracked one million women over thirteen years and found that girls and women who use hormonal birth control are significantly more likely to be diagnosed with depression. The risk was greatest for teens using progestin-only methods such as an implant or MirenaⓇ IUD.
+Researcher Professor Øjvind Lidegaard pointed out that his results may be an underestimation because he looked only at birth control users who went on to be diagnosed and take
+ 
+30 — PERIOD REPAIR MANUAL
+
+
+antidepressants. In reality, many women who experience mood changes on birth control simply stop taking it and don’t say anything to their doctor.
+“All women, doctors, and contraception advisers should realize we have this potential side effect in the use of hormonal contraceptives.”[23]
+Professor Øjvind Lidegaard
+A follow-up study from the same group of researchers found that women taking hormonal birth control had triple the risk of suicide.[24]
+How can birth control affect mood? One way is by making your nervous system more sensitive to stress.[25][26] Another is by changing the structure of your brain. In 2015, UCLA Neuroscientist Nicole Peterson found that women who take hormonal birth control have altered brains compared to women who cycle naturally. She says:
+“The change in the lateral orbitofrontal cortex may be related to the emotional changes that some women experience when using birth control pills.”[27]
+Neuroscientist Nicole Peterson
+Birth control could be causing or contributing to your depression. If this is the first time you’ve considered that possibility, then you’re not alone. Professor Jayashri Kulkarni from Monash University in Melbourne, Australia put it this way:
+“The onset of depression can happen within a day of taking (the pill) or within a year of taking it. Women often tend to blame themselves for feeling depressed and forget to consider the effect of the daily hormone they are taking.”[28]
+Professor Jayashri Kulkarni
+That happened to my patient Lizzy.
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 31
+
+
+Lizzy: Lifting the fog of depression
+I met Lizzy when she was 21. By that point, she had been on antidepressants for five years, ever since she was 16. She’d tried coming off but felt terrible and had to go back on. Lizzy told me she had no real hope of ever getting off antidepressants, and that was not why she had come to me.
+She’d come for help with chronic yeast infections. Hormones are often a contributing cause of yeast infections, so I asked about her periods. “They’re fine,” she told me. She did not mention the pill, and she hadn’t listed it in the medication section of her intake form.
+I had to ask outright. “Do you take hormonal birth control?”
+“Oh, yes,” she replied. “I started Yasmin for skin when I was fifteen.”
+Me: “Just before you developed depression?” Lizzy: “Yes, I guess six months before.”
+I asked Lizzy if she had ever considered taking a break from the pill to see if it would improve her mood. It had never occurred to her and had never been suggested by her doctor. But she was happy to have a break and so stopped the next day. I also gave her a probiotic to help with the yeast infections.
+I met with Lizzy again three months later, and two things had happened. First, her chronic yeast infections had gradually improved. But also, much to her surprise, her mood had dramatically improved after she stopped Yasmin.
+“I felt different almost immediately,” she told me. “Like a fog had lifted.”
+Lizzy still takes her antidepressant but is now hopeful that with the help of her doctor, she may eventually wean herself off it.
+ 
+32 — PERIOD REPAIR MANUAL
+
+
+Loss of Libido or Sex Drive
+Hormonal birth control can be bad for your sex life because it switches off the testosterone you need for libido. It can also cause vaginal dryness and put you at risk of a condition called vaginismus, which makes sex painful.
+According to one survey, women who take hormonal birth control report less frequent sex, less frequent feelings of arousal, less pleasure, fewer orgasms, and less vaginal lubrication.[29] Unfortunately, it can take months, or even years, for libido to return to normal once the pill is stopped.[30]
+I often ask patients about libido. Many of them say that yes, they did notice a decline on the pill, and an improvement when they stopped. Many women cannot say how their libido was before they started the pill because they were too young at the time.
+Because really, who thinks to ask a teenage girl if she’s suffered a drop in libido? Would she even know?
+If you’ve had low libido ever since you started the pill at fifteen, then, of course, you’ll think it’s normal for you. Or worse, you’ll think it’s something that’s wrong with you, rather than something that’s wrong with the drug you’ve been taking.
+You have the right to a libido, and that’s true even if you are not planning to have sex anytime soon. Why? Because your libido is not just for sex. It’s also an important part of your vitality and motivation for life.
+You may have a high libido, or you may have a low libido, and that’s fine. Everyone’s libido is different. What matters is that your libido is the one that’s normal for you and not the side effect of medication.
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 33
+
+
+Hair Loss
+Some progestins such as levonorgestrel cause hair loss because they have a high androgen index, which means they are testosterone-like.
+The American Hair Loss Association (AHLA) warns about the risk of hair loss from hormonal birth control. In 2010, it stated:
+“It is imperative for all women especially for those who have a history of hair loss in their family to be made aware of the potentially devastating effects of birth control pills on normal hair growth.”[31]
+
+Have you been taking a testosterone type of birth control? Read the ingredients.
+Progestins with a high androgen index include medroxyprogesterone acetate, levonorgestrel, norgestrel, and etonogestrel. They cause hair loss by shrinking (or miniaturizing) hair follicles, which is a slow process. You could be on the birth control for many months—or even years—before you start to notice hair loss. Progestins with a high androgen index can also cause acne.
+Progestins with a low androgen index include drospirenone, norgestimate, and cyproterone. They do not cause hair loss when you take them, but they can cause hair loss when you stop them because they cause a rebound surge in androgens and androgen
+ 
+34 — PERIOD REPAIR MANUAL
+
+
+sensitivity.
+Once your hair follicles have miniaturized on hormonal birth control, you will likely end up with the diagnosis of “androgenic” or “androgenetic” alopecia (female pattern hair loss), which is not easy to reverse. You’ll find more information about androgenetic alopecia and how to treat it in the Treatment of Female Pattern Hair Loss section in Chapter 7.
+
+
+Weight Gain
+Hormonal birth control can cause weight gain because it interferes with a hormone called insulin. We’ll learn more about insulin in Chapters 7 and 11. The pill also causes sugar cravings and prevents the muscle gain that you would expect to see with exercise.[32] Finally, the pill’s synthetic estrogen causes fat to be deposited on the hips and upper thighs and can worsen cellulite.
+But Wait, There’s More
+We’ve seen that hormonal birth control can cause depression, loss of sex drive, hair loss, and weight gain. That’s just the tip of the iceberg.
+Hormonal birth control can also cause high blood pressure, nutrient deficiency, and reduced thyroid function. Hormonal birth control alters both your intestinal and vaginal bacteria and that can lead to digestive problems, yeast infections, and abnormal PAP smears. Finally, studies have shown that hormonal birth control may prevent you from forming healthy bones.[33][34]
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 35
+
+
+As if all those side effects were not enough, there are also the problems you may face when you stop hormonal birth control.
+
+Coming Off the Pill
+You will probably feel better when you stop hormonal birth control. Better mood, more energy, and regular cycles. That is the most common experience. You may, however, develop problems such as post-pill acne, PMS, or amenorrhea (lack of periods).
+Post-Pill Acne
+The steroid drugs in hormonal birth control work extremely well to clear acne. Both ethinylestradiol (synthetic estrogen) and the progestins drospirenone, norgestimate, and cyproterone strongly suppress sebum (skin oil). In fact, cyproterone suppresses sebum to “childhood levels,”[35] which is a bit unsettling when you think about it. Adults are supposed to have more sebum than children, so it’s an abnormal situation.
+In response to the drugs, your skin has to up-regulate sebum, and that upregulation will continue even once you stop the pill. The result can be more sebum than you ever had before.
+
+image 4 - pill addiction and withdrawal
+ 
+36 — PERIOD REPAIR MANUAL
+
+
+At the same time, coming off the pill can trigger your ovaries to temporarily make more androgens as they kick back into action.
+So, post-pill acne is the result of a double-whammy of rebound sebum as you withdraw from a sebum-suppressing drug, and rebound androgens as your ovaries become active again.
+Fortunately, your ovaries should also start to make the hormones estrogen and progesterone, which are both good for skin.
+Post-pill acne typically peaks after about six months—just when you might be ready to give up. After that, your skin should start to improve.
+If you’re prone to acne, or if you suffered acne the last time you tried to stop the pill, please start natural treatment at least one month before you stop the pill. That should reduce the severity of post-pill acne. See the Treatment of Acne and Anti-Androgen Treatment sections in Chapter 7.
+Post-Pill PMS
+If you’re like many of my patients, you may encounter the new symptom of PMS when you stop the pill.
+It’s because you’re having real cycles for the first time in what may have been years. Your pill “cycles” were associated with a fairly even dose of synthetic hormones, so you didn’t feel much change day-to-day. Your real cycles, on the other hand, are associated with a natural up and down of hormones—and you have to adapt to that.
+Which might lead you to ask: “If a real period can cause PMS, then why have a real period?” And my answer is: “For the hormones.”
+Your own hormones estradiol and progesterone are so beneficial that they’re worth putting up with a little PMS. And fortunately, PMS need not impact your life too much, because it responds incredibly well to the treatments we’ll discuss in Chapter 8.
+ 
+BREAKING UP WITH HORMONAL BIRTH CONTROL — 37
+
+
+Post-Pill Amenorrhea and PCOS
+If you don’t get your period after stopping the pill, the most important question to ask is: what were your periods like before you took the pill?
+If your periods were irregular, then something was going on back then; coming off the pill has simply unmasked it. With the help of this book, you can now go back to the drawing board and figure out what that something is, and fix it.
+If on the other hand, your periods were regular before the pill, then you now have a type of post-pill amenorrhea (post-pill syndrome) or post-pill PCOS, which we’ll discuss in Chapter 7.
+The Best Thing About Breaking Up with Hormonal Birth Control
+Think of it this way: coming off the pill is the first test on your monthly report card—and that’s a good thing. It’s the first time your body has had a chance to show you what it can do. Getting a period right away—or not—gives you important clues about your health. With the help of this book, you should gain some ideas about what to do next.
+In a way, this entire book is your guide to coming off birth control. I have also included a special section in Chapter 11, How to Come Off Hormonal Birth Control.
+Going forward, you may need an alternative method of non- hormonal birth control. That’s the topic of the next chapter.
+ 
+38 — PERIOD REPAIR MANUAL
+
+
+– end of sample –
+
+
+Period Repair Manual is available from selected booksellers...
+
+Buy on Amazon
+Paperback & Kindle
+
+
+
+Buy on iTunes
+
+
+
+Buy on Kobo
+
+
+
+
+Also available in German and Spanish.
+
+•	“Die Perioden-Werkstatt”
+
+•	“Cómo mejorar tu ciclo menstrual”
