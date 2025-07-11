@@ -1,5 +1,7 @@
 
 ---
+![WhatsApp Image 2025-07-12 at 00 04 28_1ca18dc9](https://github.com/user-attachments/assets/7d874950-a013-4b91-b6be-400474c17eb6)
+![WhatsApp Image 2025-07-12 at 00 05 53_779b3706](https://github.com/user-attachments/assets/b0550c05-a086-4953-ba94-79373d92022f)
 
 ````markdown
 # Cycle RAG - RAG API Backend
