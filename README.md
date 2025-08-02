@@ -1,130 +1,148 @@
+# 🤖 RAG-Pinecone: Cycle Health Assistant
+
 ![alt text](image.png)
----
 
-
-````markdown
-# Cycle RAG - RAG API Backend
-
-This repository contains the backend code for the Cycle RAG system — a Retrieval-Augmented Generation (RAG) application built using FastAPI. The system uses OpenAI APIs and local document embeddings to answer user queries based on uploaded data.
-
----
+A Retrieval Augmented Generation (RAG) system for women's health and menstrual cycle information, powered by Pinecone vector database and GROQ API.
 
 ## 🚀 Features
 
-- FastAPI-based backend
-- OpenAI-powered RAG system
-- ChromaDB for vector storage
-- Sentence Transformers for embeddings
-- Chat memory support
-- Dockerized for easy deployment
+- **Vector Search**: Uses Pinecone for efficient semantic search
+- **Advanced Embeddings**: BAAI/bge-base-en-v1.5 for high-quality embeddings
+- **Smart Chunking**: Recursive text splitting for optimal context
+- **Fast API**: RESTful API with FastAPI
+- **Interactive UI**: Streamlit web interface
+- **Cloud Ready**: Easy deployment to Hugging Face Spaces
 
----
+## 📋 Prerequisites
 
-## 📁 Directory Structure
+- Python 3.8+
+- Pinecone API key
+- GROQ API key
 
-```text
-cycle_api/
-├── main.py              # FastAPI application entry point
-├── rag_utils.py         # RAG utility functions (embedding, retrieval, QA)
-├── ingest.py            # Script to load and embed documents
-├── .env                 # Environment variables (not included in repo)
-├── all.txt              # Python dependencies list
-├── Dockerfile           # Docker configuration
-└── wheels/              # (Optional) Pre-downloaded wheels (not used in direct install)
-````
+## 🛠️ Installation
 
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
+1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Kyvra-Labs-Pvt-Ltd/Cycle_Rag.git
-cd Cycle_Rag
+git clone <repository-url>
+cd RAG-Pinecone
 ```
 
-### 2. Create and Activate a Virtual Environment (Recommended)
+2. **Install dependencies**
 
 ```bash
-# Linux/macOS
-python -m venv venv
-source venv/bin/activate
-
-# Windows
-python -m venv venv
-venv\Scripts\activate
+pip install -r requirements.txt
 ```
 
-### 3. Install Dependencies
-
-```bash
-pip install --upgrade pip
-pip install -r all.txt
-```
-
-### 4. Add Environment Variables
-
-Create a `.env` file in the root directory and add:
+3. **Set up environment variables**
+   Create a `.env` file:
 
 ```env
-OPENAI_API_KEY=your_openai_key
+PINECONE_API_KEY=your_pinecone_api_key
+GROQ_API_KEY=your_groq_api_key
 ```
 
-Replace `your_openai_key` with your actual OpenAI API key.
+## 🗄️ Database Setup
 
----
-
-### 5. Run the Application
+1. **Index your documents**
 
 ```bash
-uvicorn main:app --host 0.0.0.0 --port 8000
+python rag_index.py
 ```
 
-### 6. Access the API
+This will:
 
-* Docs: [http://localhost:8000/docs](http://localhost:8000/docs)
-* Root: [http://localhost:8000/](http://localhost:8000/)
+- Load and chunk your knowledge base (`book.txt`)
+- Generate embeddings using BAAI/bge-base-en-v1.5
+- Create a Pinecone index called "cycle-rag"
+- Upload vectors to Pinecone
 
----
+## 🖥️ Running the Application
 
-## 🐳 Docker Instructions
-
-### 1. Build the Docker Image
+### FastAPI Server
 
 ```bash
-docker build -t cycle-rag-api .
+python main.py
 ```
 
-### 2. Run the Docker Container
+Access at: http://localhost:8000
+
+### Streamlit Interface
 
 ```bash
-docker run -p 8000:8000 --env-file .env cycle-rag-api
+streamlit run app.py
 ```
 
-> If port 8000 is in use, map to another port like:
+Access at: http://localhost:8501
+
+### Direct Query
 
 ```bash
-docker run -p 8001:8000 --env-file .env cycle-rag-api
+python rag_query.py
 ```
 
----
+## 📁 Project Structure
+
+```
+RAG-Pinecone/
+├── rag_index.py      # Document indexing to Pinecone
+├── rag_query.py      # Direct query interface
+├── rag_utils.py      # RAG utility functions
+├── main.py           # FastAPI application
+├── app.py            # Streamlit interface
+├── book.txt          # Knowledge base document
+├── requirements.txt  # Python dependencies
+└── .env             # Environment variables
+```
+
+## 🔧 API Endpoints
+
+- `GET /` - Health check
+- `POST /query` - Ask questions about menstrual health
+
+Example:
+
+```bash
+curl -X POST "http://localhost:8000/query" \
+     -H "Content-Type: application/json" \
+     -d '{"query": "What are the phases of menstrual cycle?"}'
+```
+
+## 🌐 Deployment
+
+### Hugging Face Spaces
+
+1. Create a new Streamlit Space
+2. Upload project files
+3. Add API keys to Space secrets
+4. Your app will be live at: `https://huggingface.co/spaces/username/space-name`
+
+### Local Docker
+
+```bash
+docker build -t rag-pinecone .
+docker run -p 8000:8000 --env-file .env rag-pinecone
+```
 
 ## 🧠 How It Works
 
-1. The user sends a query to the API.
-2. The backend retrieves relevant documents using ChromaDB.
-3. OpenAI API generates a response based on the retrieved context.
-4. Chat memory is optionally maintained per session.
+1. **Document Processing**: Text is split into 500-character chunks with 100-character overlap
+2. **Embedding Generation**: Each chunk is converted to 768-dimensional vectors using BGE embeddings
+3. **Vector Storage**: Embeddings are stored in Pinecone for fast similarity search
+4. **Query Processing**: User questions are embedded and matched against stored vectors
+5. **Response Generation**: Retrieved context is sent to GROQ's language model for answer generation
 
----
+## 🎯 Use Cases
 
-## 📄 Example `.env` File
+- Menstrual cycle education
+- Fertility awareness
+- Hormonal health questions
+- Period tracking insights
+- Women's health consultation
 
-```env
-CHROMA_URL=http://localhost:8000
-GROQ_API_KEY=your_groq_key_here
-```
+## 📊 Performance
 
-
-```
+- **Embedding Model**: BAAI/bge-base-en-v1.5 (768 dimensions)
+- **Search**: Sub-second response times with Pinecone
+- **Accuracy**: High-quality retrieval with semantic understanding
+- **Scalability**: Cloud-native vector database
