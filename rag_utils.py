@@ -1,6 +1,7 @@
 # rag_utils.py
 import os
 from dotenv import load_dotenv
+from langchain_chroma import Chroma
 from openai import OpenAI
 
 load_dotenv()
@@ -11,21 +12,18 @@ client = OpenAI(
     api_key=api_key
 )
 
-# Use HuggingFace embeddings (free, no API key needed)
+# Replace OpenAI embeddings with HuggingFace (free, no API key needed)
 try:
     from langchain_huggingface import HuggingFaceEmbeddings
-    from langchain_chroma import Chroma
-    
-    # This model works without sentence-transformers dependency
     embedding = HuggingFaceEmbeddings(
         model_name="sentence-transformers/all-MiniLM-L6-v2",
         model_kwargs={'device': 'cpu'}
     )
     vectordb = Chroma(persist_directory="./chroma_db_hf", embedding_function=embedding)
-    print("✅ HuggingFace embeddings initialized successfully")
+    print("✅ Using HuggingFace embeddings (free)")
 except Exception as e:
     print(f"Warning: Could not initialize embeddings: {e}")
-    print("Using simple fallback mode...")
+    print("Using simple text search fallback...")
     vectordb = None
 
 def get_answer(query: str, chat_history: list) -> tuple[str, list]:
@@ -43,7 +41,7 @@ def get_answer(query: str, chat_history: list) -> tuple[str, list]:
     if normalized_query in casual_responses:
         return casual_responses[normalized_query], chat_history
 
-    # Enhanced fallback context with better menstrual health info
+    # Search docs with fallback
     if vectordb:
         try:
             docs_and_scores = vectordb.similarity_search_with_score(query, k=4)
@@ -53,9 +51,9 @@ def get_answer(query: str, chat_history: list) -> tuple[str, list]:
             context = "\n".join(context_chunks[:3])
         except Exception as e:
             print(f"Vector search failed: {e}")
-            context = get_fallback_context(query)
+            context = "General menstrual health knowledge available."
     else:
-        context = get_fallback_context(query)
+        context = "General menstrual health knowledge available."
 
     chat_history.append({
         "role": "user",
@@ -87,28 +85,3 @@ def get_answer(query: str, chat_history: list) -> tuple[str, list]:
     # Limit memory to last 10 messages
     chat_history = chat_history[-10:]
     return answer, chat_history
-
-def get_fallback_context(query: str) -> str:
-    """Provide relevant context based on query keywords"""
-    query_lower = query.lower()
-    
-    if any(word in query_lower for word in ['period', 'menstruation', 'cycle']):
-        return """
-        Menstrual cycles typically last 21-35 days. Normal periods last 3-7 days.
-        The average blood loss is 30-40ml. Cycles can vary between individuals.
-        """
-    elif any(word in query_lower for word in ['cramp', 'pain', 'ache']):
-        return """
-        Period cramps are caused by uterine contractions. Heat therapy, exercise, 
-        and over-the-counter pain relievers can help. Severe pain may need medical attention.
-        """
-    elif any(word in query_lower for word in ['irregular', 'late', 'early']):
-        return """
-        Irregular periods can be caused by stress, weight changes, hormonal imbalances,
-        or medical conditions. Track your cycle and consult a doctor if concerned.
-        """
-    else:
-        return """
-        General menstrual health information: Normal cycles vary between individuals.
-        Track symptoms, maintain good hygiene, and consult healthcare providers when needed.
-        """

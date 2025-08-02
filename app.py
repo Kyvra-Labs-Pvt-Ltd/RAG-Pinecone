@@ -41,9 +41,10 @@ if prompt := st.chat_input("Ask me anything about your cycle..."):
                 st.session_state.messages.append({"role": "assistant", "content": answer})
             except Exception as e:
                 if "api_key" in str(e).lower():
-                    error_msg = "⚠️ API key configuration issue. Please check your .env file and ensure GROQ_API_KEY and OPENAI_API_KEY are set."
+                    error_msg = "⚠️ API key configuration issue. Please check your .env file and ensure GROQ_API_KEY is set."
                 else:
                     error_msg = f"Sorry, I encountered an error: {str(e)}"
+
                 st.error(error_msg)
                 st.session_state.messages.append({"role": "assistant", "content": error_msg})
 
