@@ -1,6 +1,11 @@
+import os
+from dotenv import load_dotenv
+from pinecone import Pinecone
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_chroma import Chroma
 from langchain_core.documents import Document
+
+# Load environment variables
+load_dotenv()
 
 # Load document
 with open("book.txt", "r", encoding="utf-8") as f:
@@ -21,24 +26,41 @@ chunks = text_splitter.split_text(text)
 documents = [Document(page_content=chunk) for chunk in chunks]
 
 # Set up embeddings
-# embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2") #this is fast less memory less accurate
-# embedding = HuggingFaceEmbeddings(model_name="BAAI/bge-base-en-v1.5")
-
-# embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2") #this is more effecient but memory consuming
-
-# # Create vector store
-# vectordb = Chroma.from_documents(
-#     documents=documents,
-#     embedding=embedding,
-#     persist_directory="./chroma_db"
-# )
-
 embedding = HuggingFaceEmbeddings(model_name="BAAI/bge-base-en-v1.5")
-vectordb = Chroma.from_documents(
-    documents=documents,
-    embedding=embedding,
-    persist_directory="./chroma_db_bge"
-)
 
+# Initialize Pinecone
+pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 
-print("✅ Indexed", len(chunks), "chunks using langchain_chroma.")
+# Create or connect to index
+index_name = "cycle-rag"
+dimension = 768  # BGE-base-en-v1.5 embedding dimension
+
+# Check if index exists, create if not
+if index_name not in pc.list_indexes().names():
+    pc.create_index(
+        name=index_name,
+        dimension=dimension,
+        metric="cosine"
+    )
+
+index = pc.Index(index_name)
+
+# Generate embeddings and upload to Pinecone
+vectors = []
+for i, chunk in enumerate(chunks):
+    # Generate embedding for this chunk
+    chunk_embedding = embedding.embed_query(chunk)
+    
+    vectors.append({
+        "id": f"chunk_{i}",
+        "values": chunk_embedding,
+        "metadata": {"text": chunk}
+    })
+
+# Upload in batches
+batch_size = 100
+for i in range(0, len(vectors), batch_size):
+    batch = vectors[i:i + batch_size]
+    index.upsert(vectors=batch)
+
+print(f"✅ Indexed {len(chunks)} chunks to Pinecone index '{index_name}'")

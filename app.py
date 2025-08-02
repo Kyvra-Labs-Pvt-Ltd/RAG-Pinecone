@@ -3,7 +3,7 @@ from rag_utils import get_answer
 
 # Page config
 st.set_page_config(
-    page_title="Cycle AI Assistant",
+    page_title="Cycle AI Assistant (RAG+Pinecone)",
     page_icon="🤖",
     layout="centered"
 )
@@ -16,7 +16,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # App title and description
-st.title("🤖 Cycle AI Assistant")
+st.title("🤖 Cycle AI Assistant (RAG+Pinecone)")
 st.markdown("Your personal companion for menstrual health questions and guidance.")
 
 # Display chat messages
@@ -62,8 +62,9 @@ with st.sidebar:
     
     ⚙️ **Setup**: Only requires:
     - GROQ_API_KEY in your .env file
-    
-    🤖 **Powered by**: GROQ + HuggingFace (free embeddings)
+    - PINECONE_API_KEY in your .env file
+
+    🤖 **Powered by**: GROQ + HuggingFace (free embeddings) + Pinecone (vector database)
     """)
     
     if st.button("Clear Chat"):
